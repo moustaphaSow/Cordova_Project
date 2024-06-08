@@ -1,0 +1,8 @@
+form {
+    text-align: center;
+}
+
+label,input,fieldset {
+    width: 90%;
+    margin-bottom: 10px;
+}
